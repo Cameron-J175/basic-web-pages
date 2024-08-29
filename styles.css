@@ -29,6 +29,11 @@ ol {
     list-style-type: upper-roman;
 }
 
-p, ol, ul {
+p, ol, ul, h1, h2 {
     text-align:center;
+}
+
+h3 {
+    font-size: xx-small; 
+    color:black; 
 }
